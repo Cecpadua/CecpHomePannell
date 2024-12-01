@@ -1,0 +1,12 @@
+{
+  "name": "cecppanelcontroller",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm run start --prefix server && npm run dev --prefix client"
+  },
+  "dependencies": {
+    "concurrently": "^7.0.0",
+    "onoff": "^6.0.3",
+    "serialport": "^12.0.0"
+  }
+}

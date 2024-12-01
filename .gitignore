@@ -1,0 +1,4 @@
+node_modules
+client/
+server/node_modules
+server/database/database.db
